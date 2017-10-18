@@ -1,2 +1,4 @@
 # main-jmwlab
-this is the main repo for JMWLAB
+this is the testing branch README for JMWLAB
+
+The quick brown fox jumps over the lazy dog
